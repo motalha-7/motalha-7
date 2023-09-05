@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammad Talha Quamar</h1>
 <h3 align="center">Innovating with Code 🚀</h3>
 
-<p align="right" alt="coding"width="10"> <img src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" alt=bkl /> </p>
-
+<p align="right" alt="coding"width="100"> <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt=bkl /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=motalha-7&label=Profile%20views&color=0e75b6&style=flat" alt="motalha-7" /> </p>
 
 <p align="left"> <a href="https://twitter.com/mohamma01466459" target="blank"><img src="https://img.shields.io/twitter/follow/mohamma01466459?logo=twitter&style=for-the-badge" alt="mohamma01466459" /></a> </p>
