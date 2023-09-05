@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mohammad Talha Quamar</h1>
 <h3 align="center">Innovating with Code 🚀</h3>
 
-<p align="right" alt="coding"width="100"> <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt=bkl /> </p>
+<p align="right" alt="coding"width="400"> <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" alt=bkl /> </p>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=motalha-7&label=Profile%20views&color=0e75b6&style=flat" alt="motalha-7" /> </p>
 
-<p align="left"> <a href="https://twitter.com/mohamma01466459" target="blank"><img src="https://img.shields.io/twitter/follow/mohamma01466459?logo=twitter&style=for-the-badge" alt="mohamma01466459" /></a> </p>
 
 - 🌱 I’m currently learning **React**
 
@@ -16,9 +17,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mohamma01466459" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohamma01466459" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohammad-talha-9a7021248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad-talha-9a7021248" height="30" width="40" /></a>
-<a href="https://instagram.com/motalha_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="motalha_7" height="30" width="40" /></a>
+<a href="https://twitter.com/mohamma01466459" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" alt="mohamma01466459" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mohammad-talha-9a7021248" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="mohammad-talha-9a7021248" height="30" width="40" /></a>
+<a href="https://instagram.com/motalha_7" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="motalha_7" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
