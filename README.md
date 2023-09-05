@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammad Talha Quamar</h1>
 <h3 align="center">Innovating with Code 🚀</h3>
 
-<p> <img align="right" alt="coding"width="400"src="https://i.gifer.com/embedded/download/5kT0.gif"> </p>
+<p align="right" alt="coding"width="10"> <img src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" alt=bkl /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=motalha-7&label=Profile%20views&color=0e75b6&style=flat" alt="motalha-7" /> </p>
 
