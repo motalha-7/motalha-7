@@ -9,7 +9,7 @@
 
 - 🌱 I’m full stack developer
   
-- 📫 How to reach me **b421027@iiit-bh.ac.in**
+- 📫 How to reach me **b421027@iiit-bh.ac.in** / **sb.mdtalha@gmail.com**
 
 - ⚡ Fun fact **I funny I am think**
 
